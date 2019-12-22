@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "I am studying node js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "author": "Vimal Pillai",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
